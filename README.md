@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @kubinoes
-- 👀 I’m interested in web and mobile development using
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on anything interesting
-- 📫 Email: j.schovanec@protonmail.com
